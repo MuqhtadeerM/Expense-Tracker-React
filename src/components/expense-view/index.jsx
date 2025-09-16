@@ -22,7 +22,7 @@ export default function ExpenseView({ type, data }) {
 
       {data.map((item, index) => (
         <Flex
-          key={`${item.description}-${index}`} 
+          key={`${item.description}-${index}`}
           bg={type === "expense" ? "red.50" : "blue.50"}
           mt="4"
           justifyContent="space-between"
