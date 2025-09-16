@@ -14,7 +14,7 @@ export default function Main() {
     totalIncome,
     setTotalIncome,
   } = useContext(GlobalContext);
-
+  
   useEffect(() => {
     let income = 0;
     let expense = 0;

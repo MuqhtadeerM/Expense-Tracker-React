@@ -1,6 +1,8 @@
 import { Box, Flex, Heading, Text } from "@chakra-ui/react";
 
 export default function ExpenseView({ type, data }) {
+
+  
   return (
     <Box
       flex={1}
