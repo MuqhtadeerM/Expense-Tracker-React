@@ -2,7 +2,7 @@
 
 A simple, modern Expense Tracker application built with React, Vite, Chakra UI, and Context API. Easily manage your daily expenses, track income and spending, and visualize your financial habits — all in an intuitive, mobile-friendly interface.
 
-🌐 **Live Demo:** [expense-tracker-react-ten-jet.vercel.app](https://expense-tracker-react-ten-jet.vercel.app/)
+🌐 **Live Demo:** [expense-tracker-react-ten-jet.vercel.app](https://expense-tracker-react-sandy.vercel.app/)
 
 ---
 
